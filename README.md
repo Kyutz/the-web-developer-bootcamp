@@ -5,7 +5,7 @@ This repository contains my solutions and code from the Udemy course **The Web D
 ## 📂 Folder Structure
 
 - **`01-introduction/`**: Contains the setup and the first basic files (such as the HTML file for your introduction).
-- **`02-html/`**: HTML basics and first projects.
+- **`02-html/`**: Contains all HTML exercises.
 
 ## 🚀 Technologies Covered
 - HTML5
