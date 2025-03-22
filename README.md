@@ -28,5 +28,5 @@ This repository contains my solutions and code from the Udemy course **The Web D
 - The repository is organized according to the course sections, reflecting the order in which the content is taught.
 
 ## 🔗 Resources
-- **Course Link**: Corrected to the provided link: [The Web Developer Bootcamp on Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/).
+- **Course Link**: [The Web Developer Bootcamp on Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/).
 - **Instructor**: Colt Steele
